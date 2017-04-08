@@ -1,0 +1,22 @@
+$primary: #006699;
+
+
+*{
+	margin:none;
+	padding:none;
+
+}
+h2 {
+	color: $primary;
+}
+ul li{
+	text-decoration: none;
+	display:block;
+}
+li{
+	float: left;
+	margin:10px;
+}
+.userDetail{
+	height:200px;
+}
